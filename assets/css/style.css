@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/confer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.container {
+    width: 50%;
+    background-color: yellowgreen;
+    margin: 10px;
+    float: right;
+
+}
+
+.container h1 {
+    color: teal;
+    text-align: center;
+}
+
+.container:hover {
+    background: chocolate;
+
+}
+
+.wrapper img {
+    width: 16%;
+    border-radius: 70%;
+    box-sizing: border-box;
+
+    
+
+}
